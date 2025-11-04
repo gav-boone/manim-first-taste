@@ -1,0 +1,1 @@
+# manim-first-taste
